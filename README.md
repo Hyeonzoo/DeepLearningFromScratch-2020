@@ -5,7 +5,7 @@
 - 파이썬이란?
 - 파이썬 인터프리터
 - 파이썬 스크립트 파일
-- 넘파이
+- numpy
 - matplotlib
 
 ## chapter2
